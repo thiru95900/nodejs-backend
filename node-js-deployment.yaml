@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: node-js
-        image: bravinwasike/node-js
+        image: 534150842621.dkr.ecr.us-west-2.amazonaws.com/nodejs:latest
         resources:
           limits:
             memory: "512Mi"
