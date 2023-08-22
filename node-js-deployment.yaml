@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: node-js
-        image: 809266685319.dkr.ecr.us-west-2.amazonaws.com/nodejs:latest 
+        image: 572730696074.dkr.ecr.us-west-2.amazonaws.com/onco.backend:latest 
         resources:
           limits:
             memory: "512Mi"
